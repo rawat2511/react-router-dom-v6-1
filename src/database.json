@@ -1,0 +1,34 @@
+{
+  "products" : [
+  { 
+    "name" : "SmartPhone", 
+    "price": 12000, 
+    "id" : 0,
+    "image" : "https://i.insider.com/60117b551d2df20018b71117?width=1136&format=jpeg"
+  },
+  { 
+    "name" : "Watch", 
+    "price" : 2000, 
+    "id" : 1,
+    "image" : "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/sense/hero-static/sage-grey/sense-sage-gray-device-3qt.png"
+  },
+  { 
+    "name" : "Shirt", 
+    "price" : 500, 
+    "id" : 2,
+    "image" : "https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg"
+  },
+  { 
+    "name" : "Pants", 
+    "price" : 1000, 
+    "id" : 3,
+    "image" : "https://www.berluti.com/on/demandware.static/-/Sites-masterCatalog_Berluti/default/dw5b7aa9db/images/R16TCU57-002_slim-fit-cotton-chino-pants_pleiades_berluti_01.jpg"
+  },
+  {
+    "name" : "Laptop",
+    "price" : 40000,
+    "id" : 4,
+    "image" : "https://www.reliancedigital.in/medias/Lenovo-82FG00BQIN-Laptops-491946562-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTk3NTl8aW1hZ2UvanBlZ3xpbWFnZXMvaGMyL2hiZS85NDUzODkyODk0NzUwLmpwZ3w2YzE0ODcxZDVlZjQ0MTNiNmUyNTg3NzA5MTQzOTE0NWZmM2YyZDE2MWE1MWY2NWJiZGY3ODVlYTY3YTFhNGYy"
+  }
+]
+}
